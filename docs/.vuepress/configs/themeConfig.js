@@ -1,7 +1,7 @@
 module.exports = ({
     subSidebar: 'auto',
     author: 'Roy Kid',
-    repo: 'Roy-Kid/lammpscn',
+    repo: 'Roy-Kid/lammpscnv2',
     nav: [
         {
             text: '初识',
